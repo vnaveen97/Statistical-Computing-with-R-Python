@@ -1,7 +1,3 @@
-# Veluchamy, Naveen - 529005677 
-# Homework 2
-
-**Due: 11:55pm Wednesday 19th February**
 
 We numerically explore the relationship between error distributions, objective functions (least squares, least absolute deviation, and weighted least squares), and computational speed.
 
